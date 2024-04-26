@@ -17,3 +17,4 @@ function numb(ar) {
 }
 
 console.log(numb([1, 2, 3]));
+ 
